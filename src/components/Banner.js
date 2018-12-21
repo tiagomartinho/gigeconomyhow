@@ -9,7 +9,7 @@ const Banner = (props) => (
             <div className="content">
                 <p>Find out the best gig economy jobs that suit your lifestyle!</p>
                 <ul className="actions">
-                    <li><a href="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button next scrolly">Get Started</a></li>
+                    <li><a href="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button">Get Started</a></li>
                 </ul>
             </div>
         </div>

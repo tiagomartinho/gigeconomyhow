@@ -59,7 +59,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>To access the full list and receive updates about the jobs sign up to our mailing list</p>
                             <ul className="actions">
-                                <li><Link to="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button next">Get Started</Link></li>
+                                <li><a href="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button">Get Started</a></li>
                             </ul>
                         </div>
                     </section>
