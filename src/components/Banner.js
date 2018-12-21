@@ -7,7 +7,7 @@ const Banner = (props) => (
                 <h1>Work Anytime 📈<br/>Live Everywhere 🧳<br/>Achieve Freedom 🛤</h1>
             </header>
             <div className="content">
-                <p>Find out the best gig economy jobs that suit your lifestyle!</p>
+                <p>WE DEVELOPED A TOOL TO HELP YOU FIND OUT THE BEST GIG ECONOMY JOBS THAT SUIT YOUR LIFESTYLE!</p>
                 <ul className="actions">
                     <li><a href="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button">Get Started</a></li>
                 </ul>

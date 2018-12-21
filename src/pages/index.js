@@ -55,9 +55,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>And many others!</h2>
+                                <h2>And many other gigs!</h2>
                             </header>
-                            <p>To access the full list and receive updates about the jobs sign up to our mailing list</p>
+                            <p>To be one of the first to access this curated list of jobs, click the button below:</p>
                             <ul className="actions">
                                 <li><a href="https://tiagomartinho2.typeform.com/to/EwQ1CR" className="button">Get Started</a></li>
                             </ul>
