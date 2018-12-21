@@ -29,26 +29,34 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
+                                <a href="https://www.handy.com/apply">
                                 <h3>Handy</h3>
                                 <p>Make up to $22/hour/job as a cleaner or $45/hour/job as a handyman</p>
+                                </a>
                             </header>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
+                              <a href="www.airbnb.es/r/gigeconomyhow">
                                 <h3>Airbnb</h3>
                                 <p>Make up to 5000$ per Month</p>
+                              </a>
                             </header>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
+                              <a href="https://glovoapp.com/en/glovers">
                                 <h3>Glovo</h3>
                                 <p>Make up to 10€/h with flexible hours</p>
+                              </a>
                             </header>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
+                                <a href="https://www.uber.com/drive/delivery/">
                                 <h3>Uber Eats</h3>
                                 <p>Make up to 2000$ per Month</p>
+                                </a>
                             </header>
                         </article>
                     </section>
